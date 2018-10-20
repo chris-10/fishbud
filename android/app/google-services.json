@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "708008625924",
+    "firebase_url": "https://iotfish-87168.firebaseio.com",
+    "project_id": "iotfish-87168",
+    "storage_bucket": "iotfish-87168.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708008625924:android:83a90c333639d89f",
+        "android_client_info": {
+          "package_name": "com.example.dribbledanimation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708008625924-ud46tfe9l6kr630u3a4ka769g2bknanp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM6jkVqBk2NQgFcys8WrCK1QgCB-i_jTk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708008625924:android:6b0047130b3c0891",
+        "android_client_info": {
+          "package_name": "com.neohull.fishsafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708008625924-ud46tfe9l6kr630u3a4ka769g2bknanp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM6jkVqBk2NQgFcys8WrCK1QgCB-i_jTk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
